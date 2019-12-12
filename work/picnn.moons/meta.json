@@ -1,0 +1,5 @@
+{
+  "nTrain": 360,
+  "nParams": 203207,
+  "nEpoch": 200
+}
